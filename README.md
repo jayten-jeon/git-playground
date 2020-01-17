@@ -55,3 +55,7 @@ git은 프로젝트 버전 관리를 위한 도구로, 스냅샷을 기록한다
 - 변경 사항들을 원격 저장소에 기록한다?
 - `git push REMOTE BRANCH` BRANCH의 변경사항들을 REMOTE에 기록한다.
 - `git push origin master` 이렇게 자주 사용한다.
+### 참고 사이트
+- [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Essential git commands every develper should know](https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl)
