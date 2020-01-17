@@ -27,7 +27,7 @@ git은 프로젝트 버전 관리를 위한 도구로, 스냅샷을 기록한다
 - `git add name` name이라는 파일을 추가한다.
 - `git add .` 현재 디렉토리의 모든 파일을 추가한다.
 
-`git status`-
+`git status`
 - 현재 추가된 (`git add`) 파일 목록을 볼수 있다.
 
 `git commit` 
