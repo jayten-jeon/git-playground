@@ -1,6 +1,6 @@
 # git-playground
 git 을 연습하는 놀이터
-### 1. git
+### 1. git basic commands
 
 git은 프로젝트 버전 관리를 위한 도구로, 스냅샷을 기록한다고 생각하면된다.
 
